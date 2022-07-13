@@ -1,0 +1,4 @@
+﻿  Validation.cpp
+D:\Учеба\Курсовая\CourseWork\CourseWork\Validation.cpp(144,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Учеба\Курсовая\CourseWork\CourseWork\Validation.cpp(204): warning C4715: deleteСonfirmation: значение возвращается не при всех путях выполнения
+  CourseWork.vcxproj -> D:\Учеба\Курсовая\CourseWork\Debug\CourseWork.exe
